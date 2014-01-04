@@ -1,0 +1,4 @@
+railstemplate
+=============
+
+Rails Application Templates
